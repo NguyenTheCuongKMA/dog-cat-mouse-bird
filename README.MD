@@ -19,3 +19,9 @@
 //git checkout <branch>
 //get merge
 //git branch -D <branch> (delete a branch)
+
+//git reset --soft <shal ID>
+//git reset --mixed <shal ID>
+//git reset --hard <shal ID> 
+
+//git revert <commit>
