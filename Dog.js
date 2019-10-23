@@ -1,5 +1,6 @@
 function Dog(){
-    hello() = function(){
-        console.log('Go..go') ; 
-    }
+   this.stomach = [];
+}
+Dog.prototype.eat = function(Cat){
+    this.stomach.push(Cat)
 }
