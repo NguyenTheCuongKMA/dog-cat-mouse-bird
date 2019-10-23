@@ -18,3 +18,4 @@
 //git checkout -b <branch> 
 //git checkout <branch>
 //get merge
+//git branch -D <branch> (delete a branch)
