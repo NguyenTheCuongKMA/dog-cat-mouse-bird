@@ -1,10 +1,10 @@
 //git init
 //git status 
 //git add 
-//git commit 
+//git commit -m <commit content>
 
 //git log
-//git show 
+//git show <id file>
 //git diff 
 
 //working directory
